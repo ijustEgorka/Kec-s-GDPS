@@ -6,5 +6,13 @@
     "verifier": "kriavv",
     "verification": "no",
     "percentToQualify": "100",
-    "password": "Copyable"
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "kriavv",
+            "link": "no",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
